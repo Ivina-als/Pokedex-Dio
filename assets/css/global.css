@@ -81,6 +81,7 @@ p {
   top: 20px;
   max-width: 100%;
   height: 150px;
+  filter: drop-shadow(0 0 20px #121212);
 }
 
 /* .space-between {
